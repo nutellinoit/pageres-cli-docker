@@ -2,10 +2,6 @@
 
 Original project : https://github.com/sindresorhus/pageres-cli
 
-```bash
-make build
-```
-
 Add alias on `~/.bashrc` or `~/.zshrc`: `alias pageres='docker run --rm -it -v ${PWD}:/tmp/ nutellinoit/pageres'`
 
 Use `pageres` command.
